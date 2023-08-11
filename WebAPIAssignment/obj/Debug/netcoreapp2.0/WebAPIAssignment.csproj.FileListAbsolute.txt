@@ -1,0 +1,11 @@
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\bin\Debug\netcoreapp2.0\WebAPIAssignment.deps.json
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\bin\Debug\netcoreapp2.0\WebAPIAssignment.runtimeconfig.json
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\bin\Debug\netcoreapp2.0\WebAPIAssignment.runtimeconfig.dev.json
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\bin\Debug\netcoreapp2.0\WebAPIAssignment.dll
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\obj\Debug\netcoreapp2.0\WebAPIAssignment.csproj.CoreCompileInputs.cache
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\obj\Debug\netcoreapp2.0\WebAPIAssignment.AssemblyInfoInputs.cache
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\obj\Debug\netcoreapp2.0\WebAPIAssignment.AssemblyInfo.cs
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\bin\Debug\netcoreapp2.0\WebAPIAssignment.pdb
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\obj\Debug\netcoreapp2.0\WebAPIAssignment.dll
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\obj\Debug\netcoreapp2.0\WebAPIAssignment.pdb
+F:\klpz downloads\WebAPIAssignment\WebAPIAssignment\obj\Debug\netcoreapp2.0\WebAPIAssignment.csprojAssemblyReference.cache
